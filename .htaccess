@@ -10,4 +10,4 @@ RewriteRule ^wp/$ page1463534.html [NC]
 
 RewriteRule ^gmtru$ page1480356.html [NC]
 RewriteRule ^gmtru/$ page1480356.html [NC]
-
+Redirect 301 /page1443444.html/ http://goldminetoken.com/index.html
